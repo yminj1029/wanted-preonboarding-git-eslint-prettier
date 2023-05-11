@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   const test = () => {
-    console.log('hello');
+    console.log('hello, world');
   };
   return (
     <div className="App">
